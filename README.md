@@ -1,5 +1,10 @@
 # Laboratorio 12 - Teoria de la Computacion
 
+====
+Giancarlo Sagastume Guevara
+24278
+====
+
 Los problemas de programacion estan implementados en Java con funciones lambda.
 Cada archivo contiene su propio `main` y se ejecuta de forma independiente.
 
@@ -7,15 +12,9 @@ Cada archivo contiene su propio `main` y se ejecuta de forma independiente.
 
 JDK 11 o superior, con el comando `java` disponible en la terminal.
 
-## Ejecucion
+## Viedo Ejecucion
 
-Abre una terminal en esta carpeta y ejecuta el problema que necesites:
-
-```powershell
-java Problema2.java
-java Problema3.java
-java Problema4.java
-```
+Link: https://youtu.be/r2Vw2LCgLYM
 
 ### Problema 2: ordenar diccionarios
 
